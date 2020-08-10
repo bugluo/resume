@@ -45,11 +45,9 @@
 ### 微信游戏
 
   - 部分游戏创意活动页面
-  
   - d3.js
   
   - 游戏运营后台
-  
   - vue nodejs hive mysql echarts
   
   
